@@ -5,4 +5,4 @@ qemu-win11.xml
 - https://githubmate.com/repo/stefanberger/swtpm/issues/572
 
 After Install
-- Drivers: https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.208-1/
+- Drivers: https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/
