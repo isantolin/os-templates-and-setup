@@ -1,5 +1,5 @@
 <domain type="kvm">
-  <name>win10</name>
+  <name>win11</name>
   <uuid>51a2a4a1-108b-4a2e-967c-d33a42bd0dc5</uuid>
   <metadata>
     <libosinfo:libosinfo xmlns:libosinfo="http://libosinfo.org/xmlns/libvirt/domain/1.0">
@@ -30,6 +30,7 @@
     <feature policy="require" name="x2apic"/>
     <feature policy="require" name="hypervisor"/>
     <feature policy="require" name="lahf_lm"/>
+    <feature policy="require" name="sse4.2"/>
     <feature policy="disable" name="svm"/>
     <feature policy="require" name="ibpb"/>
     <feature policy="require" name="md-clear"/>
