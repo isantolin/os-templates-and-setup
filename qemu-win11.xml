@@ -114,9 +114,6 @@
     <controller type="virtio-serial" index="0">
       <address type="pci" domain="0x0000" bus="0x03" slot="0x00" function="0x0"/>
     </controller>
-    <controller type="scsi" index="0" model="lsilogic">
-      <address type="pci" domain="0x0000" bus="0x07" slot="0x01" function="0x0"/>
-    </controller>
     <interface type="network">
       <mac address="52:54:00:9a:a9:28"/>
       <source network="default"/>
